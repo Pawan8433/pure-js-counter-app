@@ -20,5 +20,9 @@ This is a simple web application that allows users to increment, decrement, and 
  
 
 ## Preview
+![Screenshot 2024-02-14 192836](https://github.com/Pawan8433/pure-js-counter-app/assets/106168429/73e29c80-c3fb-40b0-8326-8c1aba92f8e8)
 
-[![Counter Web App Preview](https://github.com/Pawan8433/pure-js-counter-app/assets/106168429/314e1921-b0ad-47fb-ada9-67844678e056)](https://pawan8433.github.io/pure-js-counter-app/)
+
+
+ 
+[[Counter Web App Preview] ](https://pawan8433.github.io/pure-js-counter-app/)
