@@ -9,11 +9,11 @@ This is a simple web application that allows users to increment, decrement, and 
 - Error handling for out-of-memory and invalid range conditions.
 - Responsive layout for various screen sizes.
 ## Technologies Used
-* [HTML](https://github.com/Pawan8433/pure-js-counter-app/assets/106168429/f3125392-cedf-48e9-a826-8e12ba3eeb0e)
+* HTML![HTML](https://github.com/Pawan8433/pure-js-counter-app/assets/106168429/cfa2b841-fdab-4e03-9cdf-9a4cd61bcfbf)
+* CSS ![CSS](https://github.com/Pawan8433/pure-js-counter-app/assets/106168429/dbe8a55b-ecfb-4d66-ab3f-9a7b62e33318)
 
-* [CSS](https://github.com/Pawan8433/pure-js-counter-app/assets/106168429/490279c8-b28a-4b40-be98-e21e05b32f76)
+* JavaScript  ![JS](https://github.com/Pawan8433/pure-js-counter-app/assets/106168429/a25048a2-efbd-44b0-9561-3cd7541505b9)
 
-* [JavaScript](https://github.com/Pawan8433/pure-js-counter-app/assets/106168429/522b9032-f9f7-43de-892d-9aa10a4f5724)
 
 ## How to Use
 1. Clone this repository to your local machine using `git clone`.
